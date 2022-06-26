@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "679928242285",
+    "firebase_url": "https://rozgar-6a4ba-default-rtdb.firebaseio.com",
+    "project_id": "rozgar-6a4ba",
+    "storage_bucket": "rozgar-6a4ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679928242285:android:ca2ee8c8dfb59abcc25f64",
+        "android_client_info": {
+          "package_name": "com.example.rozgarproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679928242285-r9jv67j5gj4gadaqq9paradpj3omh8bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEmB8Elcul37JLLHf4sHxlcb3TTg1NgwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679928242285-r9jv67j5gj4gadaqq9paradpj3omh8bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

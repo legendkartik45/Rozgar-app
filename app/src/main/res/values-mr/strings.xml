@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">रोजगार</string>
+    <string name="Welcome">स्वागत आहे</string>
+    <string name="Name">नाव</string>
+    <string name="Email">तुमचा ईमेल टाकां</string>
+    <string name="Password">तुमचा पासवर्ड एंटर करा</string>
+    <string name="Signin">लॉगिन करा</string>
+    <string name="forgotpass">पासवर्ड विसरलात?</string>
+    <string name="resetPass">पासवर्ड रीसेट करा</string>
+    <string name="Register">नोंदणी करा</string>
+    <string name="reqEmail">ईमेल आवश्यक आहे.</string>
+    <string name="validEmail">एक वैध ईमेल प्रविष्ट करा.</string>
+    <string name="reqPassword">संकेतशब्द आवश्यक आहे.</string>
+    <string name="validPass">पासवर्डची लांबी किमान सहा असावी.</string>
+    <string name="verifymail">तुमचे खाते सत्यापित करण्यासाठी तुमचे ईमेल तपासा.</string>
+    <string name="verifyPass">तुमचा पासवर्ड रीसेट करण्यासाठी तुमचे ईमेल तपासा</string>
+    <string name="failedLogin">लॉग इन करण्यात अयशस्वी! कृपया आपली ओळखपत्रे तपासा किंवा खाली नोंदणी करा</string>
+    <string name="age">वय</string>
+    <string name="fullname">पूर्ण नाव आवश्यक आहे.</string>
+    <string name="reqAge">वय आवश्यक आहे.</string>
+    <string name="SuccRegister">वापरकर्त्याची यशस्वीरित्या नोंदणी केली गेली आहे! लॉगिन वर परत जा!</string>
+    <string name="failRegister">नोंदणी करण्यात अयशस्वी! पुन्हा प्रयत्न करा</string>
+    <string name="Category">श्रेणी निवडा</string>
+    <string name="Language">भाषा बदला</string>
+    <string name="EnterName">आपले नांव लिहा</string>
+    <string name="Wrong">पुन्हा प्रयत्न करा! काहीतरी चूक झाली</string>
+    <string name="Provider">कार्य प्रदाता</string>
+    <string name="seeker">काम शोधणारा</string>
+    <string name="CategorySelection">कृपया एक श्रेणी निवडा</string>
+    <string name="PhoneNumber">फोन नंबर प्रविष्ट करा.</string>
+    <string name="reqPhone">फोन नंबर आवश्यक आहे.</string>
+    <string name="validPhone">कृपया वैध दूरध्वनी क्रमांक टाका</string>
+    <string-array name="JobCategories">
+        <item>बांधकाम</item>
+        <item>बागकाम</item>
+        <item>वाहन चालवणे</item>
+        <item>शिक्षण</item>
+        <item>बाळ बसलेले</item>
+        <item>सानुकूल</item>
+    </string-array>
+    <string name="JobStatus">सर्व नोकरीची स्थिती पहा</string>
+    <string name="WorkersReq">कामगारांची गरज आहे का?</string>
+    <string name="CreateJobs">नोकऱ्या तयार करा</string>
+    <string name="Title">शीर्षक</string>
+    <string name="TitleHint">नोकरीचे शीर्षक</string>
+    <string name="JobCategory">नोकरी श्रेणी</string>
+    <string name="NewCategory">श्रेणी</string>
+    <string name="Address">पत्ता</string>
+    <string name="ContactNo">संपर्क क्रमांक</string>
+    <string name="Salary">वेतन</string>
+    <string name="Currency">रु.</string>
+    <string name="WorkingHrs">कार्यरत तास</string>
+    <string name="Workers">कामगार</string>
+    <string name="WorkersNum">कामगारांची संख्या</string>
+    <string name="Description">वर्णन</string>
+    <string name="JobDetails">नोकरी तपशील प्रविष्ट करा</string>
+    <string name="PostJob">नोकरी पोस्ट करा</string>
+    <string name="RequestJobTitle">कृपया नोकरीचे शीर्षक प्रविष्ट करा</string>
+    <string name="RequestJobCategory">कृपया नोकरीची श्रेणी प्रविष्ट करा</string>
+    <string name="RequestAddress">कृपया कामाचा पत्ता प्रविष्ट करा</string>
+    <string name="RequestContact">कृपया संपर्क क्रमांक प्रविष्ट करा</string>
+    <string name="ValidContact">कृपया एक वैध क्रमांक प्रविष्ट करा</string>
+    <string name="RequestWages">कृपया रोजंदारीची रक्कम प्रविष्ट करा</string>
+    <string name="RequestHrs">कृपया कामाच्या तासांची संख्या प्रविष्ट करा</string>
+    <string name="RequestWorkers">कृपया आवश्यक कामगारांची संख्या प्रविष्ट करा</string>
+    <string name="JobCreated">नोकरी निर्माण झाली</string>
+</resources>

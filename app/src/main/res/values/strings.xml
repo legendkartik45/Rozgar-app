@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Rozgar</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Name">Name</string>
+    <string name="Email">Enter Your Email</string>
+    <string name="Password">Enter the Password</string>
+    <string name="Signin">Login</string>
+    <string name="forgotpass">Forgot Password</string>
+    <string name="resetPass">Reset Password</string>
+    <string name="Register">Register</string>
+    <string name="reqEmail">Email is required</string>
+    <string name="validEmail">Please Enter a valid Email</string>
+    <string name="reqPassword">Password is required</string>
+    <string name="validPass">Password length should be at least 6</string>
+    <string name="verifymail">Check Your Email to verify your account.</string>
+    <string name="verifyPass">Check Your Email to reset your Password</string>
+    <string name="failedLogin">Failed to login! Please Check your Credentials Or Register below</string>
+    <string name="age">Age</string>
+    <string name="fullname">Full Name is Required</string>
+    <string name="reqAge">Age is required</string>
+    <string name="SuccRegister">User Has been registered Successfully! Go back to Login</string>
+    <string name="failRegister">Failed to Register! Try again</string>
+    <string name="Category">Choose Category</string>
+    <string name="Language">Change Language</string>
+    <string name="EnterName">Enter Your Name</string>
+    <string name="Wrong">Try Again! Something Went Wrong!</string>
+    <string name="Provider">Work Provider</string>
+    <string name="seeker">Work Seeker</string>
+    <string name="CategorySelection">Please Select the Category</string>
+    <string name="PhoneNumber">Enter Phone Number</string>
+    <string name="reqPhone">Phone Number is required</string>
+    <string name="validPhone">Please Enter a valid Phone Number</string>
+    <string-array name="JobCategories">
+        <item>Construction</item>
+        <item>Gardening</item>
+        <item>Driving</item>
+        <item>Teaching</item>
+        <item>BabySitting</item>
+        <item>Custom</item>
+    </string-array>
+    <string name="JobStatus">View Your Jobs Status</string>
+    <string name="WorkersReq">Need Workers?</string>
+    <string name="CreateJobs">Create Jobs</string>
+    <string name="Title">Title</string>
+    <string name="TitleHint">Job Title</string>
+    <string name="JobCategory">Job Category</string>
+    <string name="NewCategory">Category</string>
+    <string name="Address">Address</string>
+    <string name="ContactNo">Contact No</string>
+    <string name="Salary">Salary</string>
+    <string name="Currency">Rs.</string>
+    <string name="WorkingHrs">Working Hrs</string>
+    <string name="Workers">Workers</string>
+    <string name="WorkersNum">Number of Workers</string>
+    <string name="Description">Description</string>
+    <string name="JobDetails">Enter Job Details</string>
+    <string name="PostJob">Post Job</string>
+    <string name="RequestJobTitle">Please Enter Job Title</string>
+    <string name="RequestJobCategory">Please Enter Category of Job</string>
+    <string name="RequestAddress">Please Enter Address Of Work</string>
+    <string name="RequestContact">Please Enter Contact Number</string>
+    <string name="ValidContact">Please Enter a Valid Number</string>
+    <string name="RequestWages">Please Enter the Daily wages amount</string>
+    <string name="RequestHrs">Please Enter Number of Working Hours</string>
+    <string name="RequestWorkers">Please Enter Number of Workers Required</string>
+    <string name="JobCreated">Job Created</string>
+    <string name="SearchJobs">Available Openings</string>
+</resources>
