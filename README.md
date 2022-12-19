@@ -1,7 +1,7 @@
 # Rozgar
 
 Problem Statement : 
-  1. Develop an android application for skilled labour for searching and choosing work according to their skills.
+  1. Develop real-time android application for skilled labour for searching and choosing work according to their skills.
   2. Provide a framework for medium connecting people who are looking for work as well as for job provider for finding labours easily.
 
 Objectives :
